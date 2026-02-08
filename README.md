@@ -84,3 +84,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 - Freelancer listing cards
 - Profile page navigation
 - Dynamic data rendering
+
+
+## Note:-
+ - Payment integration is planned as a future enhancement.
+ - Current version focuses on frontend UI, routing, and data flow.
